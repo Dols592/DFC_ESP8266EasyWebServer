@@ -1,0 +1,11 @@
+//
+#ifndef DFC_ESP8266_EASY_WEB_SERVER_DATA_H
+#define DFC_ESP8266_EASY_WEB_SERVER_DATA_H
+
+//Config defines
+
+//Includes
+
+
+#endif //DFC_ESP8266_EASY_WEB_SERVER_DATA_H
+
