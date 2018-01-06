@@ -1,4 +1,4 @@
-# DFC_ESP8266FtpServer
+# DFC_ESP8266EasyWebServer
 
 An easy to use WEB server. Serves file directly from SPIFFS and support for getting and setting variables in your project.
 
